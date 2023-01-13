@@ -60,4 +60,4 @@ def task(js):
         l = np.dot(np.array([1, 1, 1]), y)
         k1 = np.dot(1/l, y)
 
-    return 
+    return k1
